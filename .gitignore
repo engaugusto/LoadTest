@@ -1,7 +1,7 @@
 # Build Folders (you can keep bin if you'd like, to store dlls and pdbs)
 [Bb]in/
 [Oo]bj/
-
+_ReSharper.[A-z0-9]/
 # mstest test results
 TestResults
 
