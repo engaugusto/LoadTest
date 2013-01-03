@@ -25,6 +25,7 @@ namespace LoadTest
                 while(thread.IsAlive){}
             }
         }
+
         static void NewTestWeb()
         {
             string url = "www.google.com.br";
